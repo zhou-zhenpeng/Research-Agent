@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+
+# Backup / test
+agent_backup.py
+
+# OS
+.DS_Store
+Thumbs.db
+test_ollama.py
+search_tool_.txt
+agent_backup.py
+__pycache__/

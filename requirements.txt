@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-core
+langchain-ollama
+ddgs
+streamlit
